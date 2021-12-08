@@ -4,11 +4,10 @@ description: Customer Experience Guidelines Checklist
 
 # Overview
 
-Version: 0.9.0&#x20;
-
-{% hint style="info" %}
-Release status: Beta
-{% endhint %}
+|                    |       |
+| ------------------ | ----- |
+| **Version**        | 0.9.0 |
+| **Release status** | Beta  |
 
 ### Purpose
 
