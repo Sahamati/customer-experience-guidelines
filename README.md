@@ -1,12 +1,7 @@
----
-description: Customer Experience Guidelines Checklist
----
-
 # Overview
 
-|                    |       |
-| ------------------ | ----- |
 | **Version**        | 0.9.0 |
+| ------------------ | ----- |
 | **Release status** | Beta  |
 
 ### Purpose
