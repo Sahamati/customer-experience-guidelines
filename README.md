@@ -1,8 +1,15 @@
-# Overview
+---
+description: Overview
+---
 
-| **Version**        | 0.9.0 |
-| ------------------ | ----- |
-| **Release status** | Beta  |
+# Customer Experience Guidelines
+
+| **Version**        | 0.9.0                                                                                                                                  |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Release status** | Beta                                                                                                                                   |
+| **Document Link**  | [Google Spreadsheet](https://docs.google.com/spreadsheets/d/17U0bsJrJajWPGz7pj9FjxBIQV8gLKpHCgUOqvMoJY9Q/edit?usp=sharing) (view-only) |
+| **Issue tracking** | [Github Issues](https://github.com/Sahamati/customer-experience-guidelines/issues)                                                     |
+| **Discussions**    | [Github Discussions](https://github.com/Sahamati/customer-experience-guidelines/discussions)                                           |
 
 ### Purpose
 
