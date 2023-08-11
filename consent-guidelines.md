@@ -69,4 +69,7 @@
 - Callout for the ability to cancel consent 
 
 ## Behind other elements (help, etc.)
+- FI Category
+- FIP Date Range
+- FIP and Account Details
 - Details on how to cancel (possibly under help?)
