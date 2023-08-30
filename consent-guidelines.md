@@ -56,7 +56,7 @@
 - FI Date Range
 - Account and FIP details
 
-## Consent Screen: 
+## Consent Screen(L1): 
 - Purpose
 - Accounts Overview
 - Consent life
@@ -68,7 +68,7 @@
 - Trust markers
 - Callout for the ability to cancel consent 
 
-## Behind other elements (help, etc.)
+## Behind other elements(L2) (help, etc.)
 - FI Category
 - FIP Date Range
 - FIP and Account Details
