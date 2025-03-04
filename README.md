@@ -4,6 +4,13 @@ description: Overview
 
 # Customer Experience Guidelines
 
+| **Version**        | 0.9.1                                                                                                                                  |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Release status** | Beta                                                                                                                                   |
+| **Document Link**  | [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1G7fMM12t_o9OrMlVEdgfViUv8O2muInG/edit?gid=19087630#gid=19087630) (view-only) |
+| **Release Notes**  | Consent Parameters table updated to include all consent attributes, in line with fair use guidelines. |
+
+
 | **Version**        | 0.9.0                                                                                                                                  |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Release status** | Beta                                                                                                                                   |
